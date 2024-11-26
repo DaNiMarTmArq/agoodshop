@@ -1,1 +1,2 @@
 # agoodshop
+An example website
