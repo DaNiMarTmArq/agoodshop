@@ -224,6 +224,15 @@ li {
 
 /* Hero section */
 
+.hero__image {
+  position: relative;
+}
+
+.hero__image span {
+  position: absolute;
+  left: 15px;
+}
+
 .hero__title {
   margin-bottom: var(--spacing-medium);
 }
@@ -383,4 +392,21 @@ li {
     font-size: 5rem;
     line-height: 1.2;
   }
+}
+
+/* Footer */
+
+.mainfooter {
+  height: 55px;
+  border-top: 1.5px solid var(--color-grey);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainfooter div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: bold;
 }
