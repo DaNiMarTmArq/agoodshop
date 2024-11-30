@@ -1,14 +1,18 @@
 # agoodshop
+
 An example website
 
-Build: 
+Build:
 npm run build
 
-Preview: 
+Preview:
 npm run preview
 
 Dev server:
 npx vite
 
-Public link: 
+Public link:
 https://agoodshop.netlify.app
+
+Github:
+https://github.com/DaNiMarTmArq/agoodshop
